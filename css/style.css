@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+    background: black;
+    font-size: 1.3em;
+    color: red;
+}
+
+h1 {
+	margin: 20px 0 0 0;
+}
+
+#timer-score {
+	display: flex;
+	margin: 0 auto 0 38%;
+}
+
+#timerBoard {
+	margin-left: 100px;
+}
