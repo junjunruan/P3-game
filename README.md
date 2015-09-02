@@ -17,5 +17,7 @@ To play this game:
 5. To pause the game, press the enter key, it will bring the user back to the menu page.
 6. To restart the game, press the enter key;
 
+Reference: udacity
+
 
 
