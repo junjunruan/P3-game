@@ -1,4 +1,4 @@
-# P3-game
+# Classic Arcade Game
 
 This is a classic arcade game.
 
