@@ -2,6 +2,9 @@
 
 In this project, a classic arcade game will be implemented. Here is the [rubric](https://www.udacity.com/course/viewer#!/c-nd001/l-2696458597/m-2687128535) for this project. 
 
+- Required courses: [Object-Oriented JavaScript](https://www.udacity.com/course/object-oriented-javascript--ud015) and [HTML5 Canvas](https://www.udacity.com/course/html5-canvas--ud292)
+- Required Technics: JavaScript, HTML5 Canvas, CSS, Chrome Developer Tools
+
 ###To run this game (choose either way):
 
 1. simply click this link: http://junjunruan.github.io/P3-game;
@@ -16,6 +19,12 @@ In this project, a classic arcade game will be implemented. Here is the [rubric]
 4. A player can get one point after reaches the river once;
 5. To pause the game, press the enter key, it will bring the user back to the menu page.
 6. To restart the game, press the enter key;
+
+###Process to finish this project:
+
+1. Implement functions including select characters, start/pause the game and calculate scores;
+2. Use JavaScript pseudo-classical pattern. Created three entities: enemy, player, game to build the game.
+
 
 Reference: udacity
 
