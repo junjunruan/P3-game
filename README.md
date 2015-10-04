@@ -1,13 +1,13 @@
 # Classic Arcade Game
 
-This is a classic arcade game.
+In this project, a classic arcade game will be implemented. Here is the [rubric](https://www.udacity.com/course/viewer#!/c-nd001/l-2696458597/m-2687128535) for this project. 
 
-To run this game (choose either way):
+###To run this game (choose either way):
 
 1. simply click this link: http://junjunruan.github.io/P3-game;
 2. clone git repository, open index.html in your browser (google chrome is prefered);
 
-To play this game:
+###To play this game:
 
 1. After run the game successfully, the user can see a menu page, which includes game information includes game rule;
 2. Choose a character as your player in the menu page, press enter key to start the game;
